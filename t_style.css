@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.yy{
+    background-color: wheat;
+}
+
+ul{
+    list-style-type: none;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+
+li{
+    float: right;
+    display: block;
+    padding: 10px;
+}
